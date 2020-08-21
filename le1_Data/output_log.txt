@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   25.20.100.6518
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Adelina\Desktop\4482\Бикмуллина\Новая папка\игра\New Unity Project\le1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The tree Palm_Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+The tree Palm_Tree must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 140)
+
+UnloadTime: 3.023700 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 414 -> priority: 1 
+  Thread -> id: 2cb4 -> priority: 1 
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+ 
+(Filename:  Line: 371)
+
